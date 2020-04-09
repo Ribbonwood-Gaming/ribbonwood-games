@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\E-Commerce\\Project\\Ribbonwood\\Ribbonwood.csproj",
+      "projectUniqueName": "C:\\Users\\Melbourne\\Documents\\GitHub\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
       "projectName": "Ribbonwood",
-      "projectPath": "D:\\E-Commerce\\Project\\Ribbonwood\\Ribbonwood.csproj",
+      "projectPath": "C:\\Users\\Melbourne\\Documents\\GitHub\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
       "packagesPath": "C:\\Users\\Melbourne\\.nuget\\packages\\",
-      "outputPath": "D:\\E-Commerce\\Project\\Ribbonwood\\obj\\",
+      "outputPath": "C:\\Users\\Melbourne\\Documents\\GitHub\\ribbonwood-games\\Ribbonwood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
