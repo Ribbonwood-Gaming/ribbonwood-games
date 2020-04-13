@@ -74,3 +74,5 @@ C:\Users\Melbourne\Documents\GitHub\ribbonwood-games\Ribbonwood\obj\Debug\netcor
 C:\Users\Melbourne\Documents\GitHub\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.csproj.CopyComplete
 C:\Users\Melbourne\Documents\GitHub\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
 C:\Users\Melbourne\Documents\GitHub\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\Products.cshtml.g.cs
+C:\Users\Melbourne\Documents\GitHub\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\login.cshtml.g.cs
+C:\Users\Melbourne\Documents\GitHub\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
