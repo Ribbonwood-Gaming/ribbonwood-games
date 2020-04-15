@@ -76,3 +76,44 @@ C:\Users\Melbourne\Documents\GitHub\ribbonwood-games\Ribbonwood\obj\Debug\netcor
 C:\Users\Melbourne\Documents\GitHub\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\Products.cshtml.g.cs
 C:\Users\Melbourne\Documents\GitHub\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\login.cshtml.g.cs
 C:\Users\Melbourne\Documents\GitHub\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\bin\Debug\netcoreapp3.1\Ribbonwood.exe
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\bin\Debug\netcoreapp3.1\Ribbonwood.deps.json
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\bin\Debug\netcoreapp3.1\Ribbonwood.runtimeconfig.json
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\bin\Debug\netcoreapp3.1\Ribbonwood.runtimeconfig.dev.json
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\bin\Debug\netcoreapp3.1\Ribbonwood.dll
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\bin\Debug\netcoreapp3.1\Ribbonwood.pdb
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\bin\Debug\netcoreapp3.1\Ribbonwood.Views.dll
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\bin\Debug\netcoreapp3.1\Ribbonwood.Views.pdb
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.csprojAssemblyReference.cache
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.csproj.CoreCompileInputs.cache
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.RazorAssemblyInfo.cache
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.RazorAssemblyInfo.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.AssemblyInfoInputs.cache
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.AssemblyInfo.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.TagHelpers.input.cache
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.TagHelpers.output.cache
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.RazorCoreGenerate.cache
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\login.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\Products.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\Register.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.RazorTargetAssemblyInfo.cache
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.RazorTargetAssemblyInfo.cs
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.Views.pdb
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\staticwebassets\Ribbonwood.StaticWebAssets.Manifest.cache
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\staticwebassets\Ribbonwood.StaticWebAssets.xml
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.dll
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.pdb
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.genruntimeconfig.cache
+D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.csproj.CopyComplete
