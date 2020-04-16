@@ -117,3 +117,4 @@ D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcore
 D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.pdb
 D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.genruntimeconfig.cache
 D:\Projects\Java\Personal Projects\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Ribbonwood.csproj.CopyComplete
+C:\Users\Melbourne\Documents\GitHub\ribbonwood-games\Ribbonwood\obj\Debug\netcoreapp3.1\Razor\Pages\ContactUs.cshtml.g.cs
