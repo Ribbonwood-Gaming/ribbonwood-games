@@ -6003,11 +6003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ECOM\\ribbonwood-games-master\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
+      "projectUniqueName": "C:\\Users\\Shaun\\Documents\\Github\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
       "projectName": "Ribbonwood",
-      "projectPath": "E:\\ECOM\\ribbonwood-games-master\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
+      "projectPath": "C:\\Users\\Shaun\\Documents\\Github\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
       "packagesPath": "C:\\Users\\Shaun\\.nuget\\packages\\",
-      "outputPath": "E:\\ECOM\\ribbonwood-games-master\\ribbonwood-games\\Ribbonwood\\obj\\",
+      "outputPath": "C:\\Users\\Shaun\\Documents\\Github\\ribbonwood-games\\Ribbonwood\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shaun\\AppData\\Roaming\\NuGet\\NuGet.Config",

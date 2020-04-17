@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LVHPBXzh5Hp5fMOhGuobLWg2OctSbA/OHISrC9qzCSAmDRAJYXH1JBwfVbF4vtht+OmSIVjEqF4p5XG8hGGN3w==",
+  "dgSpecHash": "MQTYSfLIJT1G3kMcXhrt13QcWB0RytQvm+foc5Rcz96xApubSweAeL5hZiaqRLTzWSmlZySw2ywsB3HXagSJ+A==",
   "success": true,
-  "projectFilePath": "E:\\ECOM\\ribbonwood-games-master\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
+  "projectFilePath": "C:\\Users\\Shaun\\Documents\\Github\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shaun\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Shaun\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
