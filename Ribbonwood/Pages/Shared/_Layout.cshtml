@@ -21,8 +21,16 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Products">Products</a>
+                        <li class="dropdown">
+                            <a class="dropdown-item" role="combobox" aria-expanded="false" href="#" data-toggle="dropdown">Products <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a class="nav-link text-dark" asp-area="" asp-page="/WizardsOfTheCoast">Wizards of the Coast</a></li>
+                                <li><a class="nav-link text-dark" asp-area="" asp-page="/LevelUpDice">Level Up Dice</a></li>
+                                <li><a class="nav-link text-dark" asp-area="" asp-page="/HeroForge">Hero Forge</a></li>
+                                <li><a class="nav-link text-dark" asp-area="" asp-page="/Wyrmwood">Wyrmwood</a></li>
+                                <li><a class="nav-link text-dark" asp-area="" asp-page="/Bundles">Bundles</a></li>
+                                <li><a class="nav-link text-dark" asp-area="" asp-page="/Merch">Merch</a></li>
+                            </ul>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
@@ -32,12 +40,6 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/ContactUs">Contact us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/login">Login</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Register">Register</a>
                         </li>
                     </ul>
                 </div>
