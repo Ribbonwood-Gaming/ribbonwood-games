@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melbourne\\Documents\\GitHub\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj": {}
+    "E:\\ECOM\\ribbonwood-games-master\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melbourne\\Documents\\GitHub\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj": {
+    "E:\\ECOM\\ribbonwood-games-master\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melbourne\\Documents\\GitHub\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
+        "projectUniqueName": "E:\\ECOM\\ribbonwood-games-master\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
         "projectName": "Ribbonwood",
-        "projectPath": "C:\\Users\\Melbourne\\Documents\\GitHub\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
-        "packagesPath": "C:\\Users\\Melbourne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melbourne\\Documents\\GitHub\\ribbonwood-games\\Ribbonwood\\obj\\",
+        "projectPath": "E:\\ECOM\\ribbonwood-games-master\\ribbonwood-games\\Ribbonwood\\Ribbonwood.csproj",
+        "packagesPath": "C:\\Users\\Shaun\\.nuget\\packages\\",
+        "outputPath": "E:\\ECOM\\ribbonwood-games-master\\ribbonwood-games\\Ribbonwood\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Melbourne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shaun\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
