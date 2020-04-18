@@ -10,7 +10,7 @@ namespace Ribbonwood.Models
     {
         public int ID { get; set; }
         public float Price { get; set; }
-        public int Quanitiy { get; set; }
+        public int Quantity { get; set; }
 
         public int VendorID { get; set; }
         public Vendor Vendor { get; set; }
